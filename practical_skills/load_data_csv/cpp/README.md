@@ -10,7 +10,6 @@ step2: save it as .csv file </br>
 ## (1) Write data into .csv file
 see the code detailly in main.cpp: </br>
 
-    `` 
     /**
      * write data into .csv file
      * override mode
@@ -22,11 +21,9 @@ see the code detailly in main.cpp: </br>
     ...
 
     fout.close();
-     ``
 ## (2) Load .csv file data
 see the code detailly in main.cpp: </br>
     
-    ``
     /**
      * load data from .csv file
      */
@@ -48,4 +45,3 @@ see the code detailly in main.cpp: </br>
     
     ...
     file.close();
-    ``
