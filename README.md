@@ -6,9 +6,14 @@ the repo contains many practical skills including load CSV files, draw beautiful
 []()[C++: load csv files and write data into csv files](https://github.com/YaominJun/practical_skills_and_tools/tree/main/practical_skills/load_data_csv/cpp)
 </br>
 (2) matlab</br>
+load csv files:
 
     path_data =  'XXXpath\result0.csv';
     data = csvread(path_data, 1);
+</br>
+write data to csv files: </br>
+
+    csvwrite('XXXpath\xxx.csv', matrix);
 </br>
 (3) python</br>
 
