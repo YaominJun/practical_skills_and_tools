@@ -1,0 +1,3 @@
+[submodule "Ubuntu_tools/ROS/Rviz_visualization/rviz_visualization_tool"]
+	path = Ubuntu_tools/ROS/Rviz_visualization/rviz_visualization_tool
+	url = https://github.com/YaominJun/rviz_visualization_tool
