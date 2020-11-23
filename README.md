@@ -21,3 +21,12 @@ write data to csv files: </br>
     result0 = pd.read_csv("XXXpath\\result0.csv")
 
 ## 2.draw beautiful paper pictures: Gradient color map
+
+## 3.ROS Rviz visualization skill
+[]()[ROS rviz_visualization_tool](https://github.com/YaominJun/practical_skills_and_tools/tree/main/Ubuntu_tools/ROS/Rviz_visualization)
+
+results:
+![]()![](images/2020-11-23%2012-09-27屏幕截图.png)
+
+2D cubes and 3D points: </br>
+![]()![](images/2020-11-23%2012-08-22屏幕截图.png)
