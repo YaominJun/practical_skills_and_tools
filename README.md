@@ -20,7 +20,19 @@ write data to csv files: </br>
     import pandas as pd  
     result0 = pd.read_csv("XXXpath\\result0.csv")
 
-## 2.draw beautiful paper pictures: Gradient color map
+## 2.draw beautiful paper pictures: Gradient color map using python
+### Results
+figure1: </br>
+![]()![](images/Figure_1.png)
+figure2: </br>
+![]()![](images/Figure_2.png)
+
+### Usage
+1.改变颜色的种类；2.改变图例的标注范围。
+
+### Get
+[]()[TOOLS: Draw Gradient Color Map using python](https://github.com/YaominJun/practical_skills_and_tools/tree/main/practical_skills/draw_pictures/drawColorbarTools)
+
 
 ## 3.ROS Rviz visualization skill
 []()[ROS rviz_visualization_tool](https://github.com/YaominJun/practical_skills_and_tools/tree/main/Ubuntu_tools/ROS/Rviz_visualization)
