@@ -90,3 +90,8 @@ waypoint_files/
 xml_director/
 task_file_record/
 running_scripts/
+
+#python files
+__pycache__
+.idea
+venv
